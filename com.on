@@ -1,2 +1,11 @@
+set default="1-1, 0-0"  'means living and death function8 between 1-1, 0-0 nofault=default'
+set programming.language[candle{(bash).visual.rubi.basic.parl.foxpro...)}]
+include dictionery.language[(bangla-english)|(bangla-english)]
+include dictionery.language[(bangla-bangla)|(bangla-bangla)]
+include librery.language[(bangla.english.arbi)]
+
+
+
+
 platform.off
 com.off
